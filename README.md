@@ -9,7 +9,7 @@
 
 # Envie clsx
 
-![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/BruhaBruh/96bdbce4d06b5692e89d42106c98eca9/raw/db3041b449d719abf711e3d3d6682a0681939572/envie-clsx.json)
+![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/BruhaBruh/96bdbce4d06b5692e89d42106c98eca9/raw/061fe2f49d361eb39345b83cbcd34b650db37b86/envie-clsx.json)
 ![Airbnb code style Badge](https://img.shields.io/badge/code%20style-Airbnb-%23ff5a5f?logo=airbnb)
 [![CI](https://github.com/envieapp/bem/actions/workflows/ci.yml/badge.svg)](https://github.com/envieapp/bem/actions/workflows/ci.yml)
 
