@@ -1,5 +1,5 @@
 {
-  "display": "bem",
+  "display": "clsx",
   "compilerOptions": {
     "outDir": "dist",
     "composite": false,
